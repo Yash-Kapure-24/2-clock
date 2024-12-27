@@ -1,6 +1,7 @@
-# React + Vite
+# React + Vite Clock Project ⏰
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+About the Project
+This project is a sleek, responsive clock application built using React.js. It dynamically displays the current time with real-time updates and showcases the power of React's component-based architecture and state management.
 
 Currently, two official plugins are available:
 
