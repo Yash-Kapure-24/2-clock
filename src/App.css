@@ -1,0 +1,25 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.Container{
+  margin-top: 40px; 
+}
+
+.Clock-heading{
+  font-size: 40px;
+}
+
+.Moto {
+  font-size: 17px;
+  margin-top: 20px;
+  font-weight: 400;
+}
+
+.Time {
+  font-size: 20px;
+  margin-top: 20px;
+  font-weight: 500;
+}
